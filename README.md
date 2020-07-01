@@ -102,10 +102,10 @@ The plots mentioned are shown on the slides presentation for better visualizatio
 
 
 ## Files
-- [Data](/data/)
-- [Notebooks](https://github.com/Magierteppich/Data_Thief_Project_Team_Wall-e/tree/master/Jupyter_Notebooks)
-- [Slides](https://github.com/Magierteppich/Data_Thief_Project_Team_Wall-e/blob/master/COVID%20vs%20Stock%20Markets.pdf)
-- [Kanban](https://github.com/users/Magierteppich/projects/1)
+- [Data](https://github.com/jsialell/covid19_stock-market/tree/master/data)
+- [Notebooks](https://github.com/jsialell/covid19_stock-market/tree/master/Jupyter_Notebooks)
+- [Slides](https://github.com/jsialell/covid19_stock-market/blob/master/COVID%20vs%20Stock%20Markets.pdf)
+
 
 
 ## Resources
